@@ -5,6 +5,8 @@
 - [Intro to DeFi YouTube playlist](https://www.youtube.com/playlist?list=PLrkvd80dg9YHLT_OOYkE3oEiPfIMMneS-): Good for DeFi newbies
 - [Chris Blec on Defi](https://www.youtube.com/channel/UCuulLHp0eyXnl9yAao_pbEA): Specialises on DeFi videos and deeper explanations
 - [Ivan On Tech](https://www.youtube.com/user/LiljeqvistIvan): Talks a lot about DeFi
+- [David Mihal](https://www.youtube.com/channel/UCW4FYfTPlCNB-yUD2mIIzLw): Smart contract developer who knows how to explain things in simple terms
+- [Crypt0](https://www.youtube.com/user/obham001/videos): One of the OG crypto YouTubers, talks about various news in crypto, also about DeFi
 
 ## Websites
 - [DeFi Rate](https://defirate.com/): DeFi lending rates, news and deeper project descriptions
