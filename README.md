@@ -23,6 +23,8 @@
 
 ## Newsletter
 - [DeFi Rate Newsletter](https://defirate.com/)
+- [Bankless Newsletter](https://bankless.substack.com/)
+- [The Daily Gwei](https://thedailygwei.substack.com/)
 
 ## dApps
 
@@ -36,6 +38,10 @@
 - [Synthetix](https://www.synthetix.io): Tokenizing various assets like a U.S. Dollar (sUSD stablecoin), gold, stock indexes and stocks
 - [Uniswap](https://uniswap.org): Automated liquidity protocol
 - (more here: https://github.com/colekennelly1/awesome-defi-trackers)
+
+## Articles and tutorials
+
+- [Guide #1: Starting with Bankless](https://bankless.substack.com/p/-guide-1-starting-with-bankless)
 
 ## Contributions
 
